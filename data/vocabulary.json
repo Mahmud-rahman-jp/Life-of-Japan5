@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "category": "Driving Test",
+    "kanji": "免許証",
+    "hiragana": "めんきょしょう",
+    "romaji": "Menkyosho",
+    "meaning": "Driver's License",
+    "example": "免許証を見せてください。"
+  },
+  {
+    "id": 2,
+    "category": "Hospital",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "Byouin",
+    "meaning": "Hospital",
+    "example": "病院へ行きます。"
+  },
+  {
+    "id": 3,
+    "category": "City Office",
+    "kanji": "市役所",
+    "hiragana": "しやくしょ",
+    "romaji": "Shiyakusho",
+    "meaning": "City Hall",
+    "example": "市役所で手続きをします。"
+  },
+  {
+    "id": 4,
+    "category": "Daily Conversation",
+    "kanji": "お願いします",
+    "hiragana": "おねがいします",
+    "romaji": "Onegaishimasu",
+    "meaning": "Please",
+    "example": "これをお願いします。"
+  },
+  {
+    "id": 5,
+    "category": "Daily Conversation",
+    "kanji": "ありがとうございます",
+    "hiragana": "ありがとうございます",
+    "romaji": "Arigatou gozaimasu",
+    "meaning": "Thank you very much",
+    "example": "手伝ってくれてありがとうございます。"
+  },
+  {
+    "id": 6,
+    "category": "Driving Test",
+    "kanji": "信号",
+    "hiragana": "しんごう",
+    "romaji": "Shingou",
+    "meaning": "Traffic Light",
+    "example": "赤い信号で止まります。"
+  },
+  {
+    "id": 7,
+    "category": "Driving Test",
+    "kanji": "一時停止",
+    "hiragana": "いちじていし",
+    "romaji": "Ichiji teishi",
+    "meaning": "Temporary Stop",
+    "example": "一時停止の標識があります。"
+  },
+  {
+    "id": 8,
+    "category": "Hospital",
+    "kanji": "保険証",
+    "hiragana": "ほけんしょう",
+    "romaji": "Hokensho",
+    "meaning": "Health Insurance Card",
+    "example": "受付で保険証を出してください。"
+  },
+  {
+    "id": 9,
+    "category": "Hospital",
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "romaji": "Kusuri",
+    "meaning": "Medicine",
+    "example": "薬を一日三回飲みます。"
+  },
+  {
+    "id": 10,
+    "category": "City Office",
+    "kanji": "住民票",
+    "hiragana": "じゅうみんひょう",
+    "romaji": "Juuminhyou",
+    "meaning": "Residence Certificate",
+    "example": "住民票を一枚ください。"
+  },
+  {
+    "id": 11,
+    "category": "City Office",
+    "kanji": "在留カード",
+    "hiragana": "ざいりゅうカード",
+    "romaji": "Zairyuu kaado",
+    "meaning": "Residence Card",
+    "example": "在留カードを更新します。"
+  },
+  {
+    "id": 12,
+    "category": "Shopping",
+    "kanji": "領収書",
+    "hiragana": "りょうしゅうしょ",
+    "romaji": "Ryoushuusho",
+    "meaning": "Receipt",
+    "example": "領収書をください。"
+  },
+  {
+    "id": 13,
+    "category": "Shopping",
+    "kanji": "袋",
+    "hiragana": "ふくろ",
+    "romaji": "Fukuro",
+    "meaning": "Bag",
+    "example": "袋はいりますか。"
+  },
+  {
+    "id": 14,
+    "category": "Workplace",
+    "kanji": "会議",
+    "hiragana": "かいぎ",
+    "romaji": "Kaigi",
+    "meaning": "Meeting",
+    "example": "午後三時に会議があります。"
+  },
+  {
+    "id": 15,
+    "category": "Workplace",
+    "kanji": "休憩",
+    "hiragana": "きゅうけい",
+    "romaji": "Kyuukei",
+    "meaning": "Break",
+    "example": "十時から休憩です。"
+  }
+]

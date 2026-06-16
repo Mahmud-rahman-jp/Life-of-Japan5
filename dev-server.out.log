@@ -1,0 +1,12 @@
+
+> japan-life-japanese@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.35
+  - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 1904ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.3s (508 modules)
+ GET / 200 in 3498ms
